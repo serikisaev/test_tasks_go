@@ -15,5 +15,4 @@ def unique_number(file):
             print(i, file=sub_file_2)
 
 
-if __name__ == "__main__":
-    unique_number('input-201.txt')
+unique_number('input-201.txt')
